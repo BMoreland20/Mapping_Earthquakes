@@ -1,0 +1,22 @@
+body {
+    color: black;
+    background-color: aquamarine;
+  }
+
+.jumbotron {
+    background-image: url("C:/Users/Blaine/Documents/College/Bootcamp/12) Belly_Button_Biodiversity/images/MIT_WritingDNA.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+    }
+
+.center-block {
+    margin: auto;
+    display: block;
+  }
+
+label {
+    text-align: left;
+    display: block;
+    text-indent: -5%;
+  }
