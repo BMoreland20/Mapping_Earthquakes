@@ -2,7 +2,7 @@ For this week’s challenge we are continuing to perform front end data visualiz
 
 During this challenge we were tasked with creating maps that show earthquake data.  The first deliverable asked that we add the tectonic plate data to our map that we had created earlier that had all of the earthquake data.  See the image below:
 
-![This is an image]( https://github.com/BMoreland20/Mapping_Earthquakes/blob/main/Resources/Deliverable_1.png
+![This is an image]( https://github.com/BMoreland20/Mapping_Earthquakes/blob/main/Resources/Deliverable_1.png)
 
 In the second deliverable we were then tasked with adding the Major Earthquake data and add the additional color layers for these additional data points.  See the image below:
 
